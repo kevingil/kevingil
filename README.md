@@ -1,16 +1,28 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Kevin.</h3>
 
-<!--
-**kevingil/kevingil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://kevingil.com">Personal homepage</a> •
+  <a href="https://www.threads.net/@kvngil">Threads</a> •
+  <a href="https://www.linkedin.com/in/kevingil/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on:
+- Backend/fullstack projects in Go/Python/Typescript 
+- Frontend projects with React, C# MVC, or HTMX
+
+🌱 I’m currently learning:
+- Rust
+
+💬 Ask me about: [HTMX](https://htmx.org/)
+
+📫 How to reach me: [kevin_gil@live.com](mailto:kevin_gil@live.com)
+   
+
+---
+
+
+##### ⚡ Here's a photo of my cat:
+
+<img width="100%" alt="Luna" src="https://s6.imgcdn.dev/fMu7v.jpg">
+
