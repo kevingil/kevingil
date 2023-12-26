@@ -1,6 +1,6 @@
-<h3 align="center">👋 Hello! I'm Kevin.</h3>
+<h3 align="right">👋 Hello! I'm Kevin.</h3>
 
-<p align="center">
+<p align="right">
   <a href="https://kevingil.com">Personal homepage</a> •
   <a href="https://www.threads.net/@kvngil">Threads</a> •
   <a href="https://www.linkedin.com/in/kevingil/">LinkedIn</a>
@@ -23,6 +23,6 @@
 
 
 ##### ⚡ Here's a photo of my cat:
-
-<img width="100%" alt="Luna" src="https://s6.imgcdn.dev/fMu7v.jpg">
-
+<p align="center">
+<img height="300" alt="Luna" src="https://s6.imgcdn.dev/fMu7v.jpg">
+</p>
