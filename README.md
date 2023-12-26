@@ -1,6 +1,6 @@
-<h3 align="right">👋 Hello! I'm Kevin.</h3>
+<h3 align="center">👋 Hello! I'm Kevin.</h3>
 
-<p align="right">
+<p align="center">
   <a href="https://kevingil.com">Personal homepage</a> •
   <a href="https://www.threads.net/@kvngil">Threads</a> •
   <a href="https://www.linkedin.com/in/kevingil/">LinkedIn</a>
