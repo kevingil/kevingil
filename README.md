@@ -6,17 +6,23 @@
   <a href="https://www.linkedin.com/in/kevingil/">LinkedIn</a>
 </p>
 
+---
 
-👯 I’m looking to collaborate on:
-- Backend/fullstack projects in Go/Python/Typescript 
-- Frontend projects with React, C# MVC, or HTMX
+💻 Favorite Tech
+
+  <img src="./images/go-flat.svg" width="40" height="40" alt="Golang" />
+  <img src="./images/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="./images/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<br>
+<br>
+
 
 🌱 I’m currently learning:
 - Rust
 
 💬 Ask me about: [HTMX](https://htmx.org/)
 
-📫 How to reach me: [kevin_gil@live.com](mailto:kevin_gil@live.com)
+📫 How to reach me: [in/kevingil](https://www.linkedin.com/in/kevingil/)
    
 
 ---
@@ -24,5 +30,5 @@
 
 ##### ⚡ Here's a photo of my cat:
 <p align="center">
-<img height="300" alt="Luna" src="https://s6.imgcdn.dev/fMu7v.jpg">
+<img height="300" alt="Luna" src="./images/luna.jpg">
 </p>
