@@ -9,10 +9,11 @@
 ---
 
 💻 Favorite Tech
-
+<p align="left">
   <img src="./images/go-flat.svg" width="40" height="40" alt="Golang" />
   <img src="./images/python-original.svg" width="40" height="40" alt="Python" />
   <img src="./images/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+</p>
 <br>
 <br>
 
