@@ -25,10 +25,6 @@
 📫 How to reach me: [in/kevingil](https://www.linkedin.com/in/kevingil/)
    
 
----
-
-
-##### ⚡ Here's a photo of my cat:
-<p align="center">
+<p align="center" hidden>
 <img height="300" alt="Luna" src="./images/luna.jpg">
 </p>
