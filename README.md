@@ -24,7 +24,3 @@
 
 📫 How to reach me: [in/kevingil](https://www.linkedin.com/in/kevingil/)
    
-
-<p align="center" hidden>
-<img height="300" alt="Luna" src="./images/luna.jpg">
-</p>
