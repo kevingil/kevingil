@@ -1,10 +1,10 @@
-<h3 align="center">👋 H, I'm Kevin</h3>
+<h3 align="center">👋 Hi, I'm Kevin</h3>
 
 🔗 Links
 <p align="left">
   <a href="https://kevingil.com">Blog</a> /
-  <a href="https://www.threads.net/@kvngil">Threads</a> /
-  <a href="https://www.linkedin.com/in/kevingil/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kevingil/">LinkedIn</a> /
+  <a href="https://www.threads.net/@kvngil">Threads</a> 
 </p>
 
 💻 Things I like
