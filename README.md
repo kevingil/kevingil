@@ -27,5 +27,7 @@
 
 💬 Ask me about: [HTMX](https://htmx.org/)
 
+📄 Editor: [Neovim](https://github.com/kevingil/kevingil/tree/main/nvim)
+
 📫 How to reach me: [in/kevingil](https://www.linkedin.com/in/kevingil/)
    
