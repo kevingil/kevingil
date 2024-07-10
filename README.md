@@ -1,5 +1,3 @@
-<h3 align="center">👋 Hi, I'm Kevin</h3>
-
 🔗 Links
 <p align="left">
   <a href="https://kevingil.com">Blog</a> /
@@ -7,7 +5,7 @@
   <a href="https://www.threads.net/@kvngil">Threads</a> 
 </p>
 
-💻 Things I like
+💻 Favorite tech
 <p align="left">
   <img src="./images/go-flat.svg" width="30" height="30" alt="Golang" />
   <img src="./images/typescript-original.svg" style="padding: 0px 5px;"width="30" height="30" alt="TypeScript"/>
@@ -24,8 +22,6 @@
   <img src="./images/valkey-logo.svg" width="30" height="30" alt="Valkey" />
 </p>
 
-
-💬 Ask me about: [HTMX](https://htmx.org/)
 
 📄 Editor: [Neovim](https://github.com/kevingil/kevingil/tree/main/nvim)
 
